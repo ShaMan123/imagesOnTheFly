@@ -1,5 +1,6 @@
 # imagesOnTheFly
 Serving images on the fly via dynamic links
+Able to crop, resize, enhance, etc.
 
 Existing known services:
 1. Google has a service exposed in the Python Client for Google App Engine, see: <br/>
