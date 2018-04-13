@@ -1,0 +1,7 @@
+﻿google-api-python-client
+google-cloud
+importlib
+Pillow
+webapp2
+Flask
+firebase-admin
