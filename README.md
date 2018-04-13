@@ -1,5 +1,5 @@
 # imagesOnTheFly
-Serving images on the fly via dynamic links
+Serving images on the fly via dynamic links<br/>
 Able to crop, resize, enhance, etc.
 
 Existing known services:
